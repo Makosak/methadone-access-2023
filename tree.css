@@ -28,8 +28,16 @@ p {
 
 }
 
+p.temp {
+  font-family: 'Nunito Sans', serif;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.2;
+
+}
+
 a {
   font-family: 'Nunito Sans', sans-serif;
-  color: #545454;
+  color: #2f5aa8;
 
 }
